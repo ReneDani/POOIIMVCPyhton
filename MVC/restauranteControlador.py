@@ -1,5 +1,5 @@
-from RestauranteModelo import RestauranteModelo
-from RestauranteVista import RestauranteVista
+from restauranteModelo import RestauranteModelo
+from restauranteVista import RestauranteVista
 
 
 class RestauranteControlador:

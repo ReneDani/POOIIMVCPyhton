@@ -1,4 +1,4 @@
-from RestauranteControlador import RestauranteControlador
+from restauranteControlador import RestauranteControlador
 
 if __name__ == "__main__":
     app = RestauranteControlador()
